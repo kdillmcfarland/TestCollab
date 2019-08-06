@@ -1,2 +1,2 @@
 # TestCollab
-reset test
+Add nonconflict
